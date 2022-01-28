@@ -28,7 +28,7 @@ Navigate to Project Bin and Utilize Service
 
 + Parameter is an integer of which Fib(N) and Prime(N) is shown
 ```bash
-   cd calculate:-api/bin
+   cd calculate-api/bin
    node . -n <parameter>
 ```
 
