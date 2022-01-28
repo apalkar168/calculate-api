@@ -1,0 +1,16 @@
+{
+  "name": "calculation-api",
+  "version": "1.0.0",
+  "description": "Calculate the first N fibonacci and prime numbers in parallel",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Apoorv Palkar",
+  "license": "MIT",
+  "bin": {
+    "calculation": "./bin/index.js"
+  },
+  "dependencies": {
+    "async": "^3.2.3",
+    "yargs": "^13.2.4"
+  }
+}
